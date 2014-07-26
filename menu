@@ -27,7 +27,7 @@
 [submenu] (Editors)
       [exec]   (nano) {xterm -e nano}
       [exec]   (vim) {xterm -e vim}
-	[exec] (sublime) {sublime}
+	[exec] (sublime) {sublime-text}
 [end]
 [submenu] (System Tools)
       [exec]   (top) {xterm -e top}

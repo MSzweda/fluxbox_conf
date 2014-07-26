@@ -59,7 +59,7 @@ session.screen0.strftimeFormat:	%k:%M
 session.tabsAttachArea:	Window
 session.slitlistFile:	/home/ly/.fluxbox/slitlist
 session.forcePseudoTransparency:	false
-session.styleOverlay:	/home/ly/.fluxbox/overlay
+session.styleOverlay:	~/.fluxbox/overlay
 session.menuFile:	~/.fluxbox/menu
 session.cacheMax:	200
 session.keyFile:	~/.fluxbox/keys
@@ -72,4 +72,3 @@ session.ignoreBorder:	false
 session.styleFile:	/home/ly/.fluxbox/styles/Final_cut_v2.0
 session.doubleClickInterval:	250
 session.configVersion:	13
-
